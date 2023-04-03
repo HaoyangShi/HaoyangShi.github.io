@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "First Blog"
-author: "HaoyangShi"
+author: "ShiHaoyang"
 ---
 **Hello World!**
